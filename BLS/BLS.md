@@ -1,8 +1,10 @@
-Introduction
+*Introduction*
 
 Prosocial behavior 
 Theory
 
+
+STRUCTURE: IDENTIFY WHAT TACTIC SURVEYS ARE CURRENTLY USING, THEN USE TYLER2010 TO IDENTIFY WHAT MOTIVATIONS IT MIGHT NOT BE LEVERAGE, OR OVER-LEVERAGING -- E.G., IDENTIFY SOME SOCIAL MOTIVATIONS THAT COULD BE APPLICABLE, THEN SHOW HOW TO TEST THEM
 
 Priming Prosocial Behavior
 
@@ -59,11 +61,7 @@ Rule adherence + required = Compliance (26)
 Instrumental - people interact to exchange material resources 
 Social - attitudes, values, identity, procedural justice, and motive-based trust
 
-
-
-
-
-
+Idea: how can these five motivations explain cooperation? 
 
 
 
