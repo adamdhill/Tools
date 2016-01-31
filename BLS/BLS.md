@@ -1,5 +1,21 @@
 *Introduction*
 
+
+
+Why Do People Cooperate? 
+
+Motivations 
+6 from Stalans
+
+As ways to implement these motivations, use the Decoy Effect, Coherence, etc. 
+
+basically blending motivations from psychology with decision making techniques from behavioral econ 
+
+
+
+
+
+
 Prosocial behavior 
 Theory
 
