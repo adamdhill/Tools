@@ -1,8 +1,19 @@
-*Introduction*
+**Background Information on Research**
+
+**Statement of work already accomplished**
+
+**Proposed research and expected results**
+
+**Benefits of work to BLS**
 
 
 
-Why Do People Cooperate? 
+**Background**
+
+INTRODUCTORY STATEMENT
+
+
+*The Causes of Pro-Social Behavior* 
 
 Motivations 
 6 from Stalans
