@@ -81,6 +81,10 @@ Consistency Principle
 
 
 
+
+
+
+
 Legitimate Authority Principle 
 
 cf. why people obey the law 
