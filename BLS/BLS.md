@@ -29,27 +29,40 @@ Mandated behaviors typically instrumentally motivated (p. 26) -- ADH: so perhaps
 *Theories of Pro-Social Behavior* 
 
 Tyler2010
+
 *Types of cooperative behavior*
+
 Compliance
+
 In-role
+
 Deference
+
 Extra-role
+
 Rule adherence + required = Compliance (26) 
 
 
 *Specific Motivations*
 
 Motivational models*
+
 Instrumental - people interact to exchange material resources 
+
 Social - attitudes, values, identity, procedural justice, and motive-based trust
 
 From Stalans2012
  
 Reciprocity Principle
+
 Sensitivity to Negative Consequences 
+
 Civic Duty Principle
+
 Scarcity Principle 
+
 Consistency Principle 
+
 Legitimate Authority Principle 
 
 
