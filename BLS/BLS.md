@@ -28,7 +28,9 @@ Mandated behaviors typically instrumentally motivated (p. 26) -- ADH: so perhaps
 
 *Theories of Pro-Social Behavior* 
 
-Tyler2010
+Researchers broadly identify two types of motivation for cooperative behavior: instrumental and social. Tyler2010
+
+Instrumental is important. Social is, too. And the two can interact.
 
 *Types of cooperative behavior*
 
@@ -45,25 +47,32 @@ Rule adherence + required = Compliance (26)
 
 *Specific Motivations*
 
-Motivational models*
+Motivational models
 
 Instrumental - people interact to exchange material resources 
 
 Social - attitudes, values, identity, procedural justice, and motive-based trust
 
-From Stalans2012
+PJ and Scarcity go together
+
+For PJ, SOII selection is fair (also for SOII, scarcity) 
+
+If non-SOII, move up a level of abstraction -- not the process in which firms are chosen, but the way in which this survey is chosen, or way in which the classification of firm is chosen
+
+
+From Stalans2012 (which is a mix of instrumental and social) 
  
-Reciprocity Principle
+Reciprocity Principle (I)
 
-Sensitivity to Negative Consequences 
+Sensitivity to Negative Consequences (I)
 
-Civic Duty Principle
+Civic Duty Principle (S)
 
-Scarcity Principle 
+Scarcity Principle (I)
 
-Consistency Principle 
+Consistency Principle (I)
 
-Legitimate Authority Principle 
+Legitimate Authority Principle (S) 
 
 
 *Priming Prosocial Behavior*
