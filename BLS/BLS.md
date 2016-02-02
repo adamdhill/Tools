@@ -1,3 +1,10 @@
+---
+title: "Proposal: Increasing Response Rates through Behavioral Economics"
+output: pdf_document
+bibliography: Bibliography.copy.bib
+---
+
+
 **Background Information on Research**
 
 **Statement of work already accomplished**
@@ -28,7 +35,7 @@ Mandated behaviors typically instrumentally motivated (p. 26) -- ADH: so perhaps
 
 #Theories of Pro-Social Behavior and Cooperation 
 
-Researchers broadly identify two types of motivation for cooperative behavior: instrumental and social. Tyler2010
+Researchers broadly identify two types of motivation for cooperative behavior: instrumental and social. [@Tyler2010, pp. 11-26]
 
 Instrumental is important. Social is, too. And the two can interact.
 
