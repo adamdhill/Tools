@@ -8,7 +8,7 @@
 
 
 
-**Background**
+#Background
 
 INTRODUCTORY STATEMENT
 
@@ -26,7 +26,7 @@ Social motivations
 Mandated behaviors typically instrumentally motivated (p. 26) -- ADH: so perhaps downplay mandatoriness? 
 
 
-*Theories of Pro-Social Behavior* 
+#Theories of Pro-Social Behavior and Cooperation 
 
 Researchers broadly identify two types of motivation for cooperative behavior: instrumental and social. Tyler2010
 
@@ -45,7 +45,7 @@ Extra-role
 Rule adherence + required = Compliance (26) 
 
 
-*Specific Motivations*
+#From general theory to Specific Motivations
 
 Motivational models
 
@@ -75,7 +75,7 @@ Consistency Principle (I)
 Legitimate Authority Principle (S) 
 
 
-*Priming Prosocial Behavior*
+#Implementing Specific Motivations
 
 As ways to implement these motivations, use the Decoy Effect, Coherence, etc. 
 
