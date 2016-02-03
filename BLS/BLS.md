@@ -37,7 +37,12 @@ Mandated behaviors typically instrumentally motivated (p. 26) -- ADH: so perhaps
 
 #Theories of Pro-Social Behavior and Cooperation 
 
-Recent research on pro-social behavior moves toward unifying two previously competing schools of thought. Economic models have long assumed that individual motivation derives from self-interest, in the sense that motivation is caused by individuals' own desires or utility functions. Any given individual's utility function is independent is every other utility function. This assumption implies that desires are not affected by other individuals' desires; more strongly still, it implies that motivation stems from a desire for one's own satisfaction. Put differently, effects positive or negative on others are merely externalities; and any positive externalities ought to be internalized through compensation. [@Gauthier1986] Put more plainly, the rational choice model of motivation assumes that, if there is a conflict between what will satisfy me and what will satisfy others, I will prioritize my own satisfaction. 
+Recent research on pro-social behavior moves toward unifying two previously competing schools of thought. 
+
+Economic models have long assumed that individual motivation derives from self-interest, in the sense that motivation is caused by individuals' own desires or utility functions. Any given individual's utility function is independent is every other utility function. This assumption implies that desires are not affected by other individuals' desires; more strongly still, it implies that motivation stems from a desire for one's own satisfaction. Put differently, effects positive or negative on others are merely externalities; and any positive externalities ought to be internalized through compensation. [@Gauthier1986] Put more plainly, the rational choice model of motivation assumes that, if there is a conflict between what will satisfy me and what will satisfy others, I will prioritize my own satisfaction. 
+
+
+
 
 Researchers broadly identify two types of motivation for cooperative behavior: self-interested and social. [@Tyler2010, pp. 11-26] Traditionally, economic models treated self-interest, as measured by material gains and losses, as the primary driver of all behavior, including cooperative behavior. [@cite, pp. ]  
 
