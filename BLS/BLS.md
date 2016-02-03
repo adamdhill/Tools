@@ -67,6 +67,11 @@ Rule adherence + required = Compliance (26)
 
 #From general theory to Specific Motivations
 
+The rational choice motivation model implies that individual action is determined by sanctions and incentives. Scholars have decomposed these two categories into more specific motivations. 
+
+ 
+
+
 Motivational models
 
 Instrumental - people interact to exchange material resources 
