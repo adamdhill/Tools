@@ -19,6 +19,8 @@ bibliography: Bibliography.copy.bib
 
 INTRODUCTORY STATEMENT
 
+Motivation concerns why we make decisions
+Cognition focuses on how we make those decisions
 basically blending motivations from psychology with decision making techniques from behavioral econ 
 
 Cognition v motivation
@@ -35,7 +37,11 @@ Mandated behaviors typically instrumentally motivated (p. 26) -- ADH: so perhaps
 
 #Theories of Pro-Social Behavior and Cooperation 
 
-Researchers broadly identify two types of motivation for cooperative behavior: instrumental and social. [@Tyler2010, pp. 11-26]
+Researchers broadly identify two types of motivation for cooperative behavior: instrumental and social. [@Tyler2010, pp. 11-26] Traditionally, economic models treated self-interest, as measured by material gains and losses, as the primary driver of all behavior, including cooperative behavior. [@cite, pp. ]  
+
+
+"When the magnitude of the influence of instrumental and social motivations are directly compared, social motivations are found to explain more of the variance in cooperation than can be explained by instrumental motivations." [@Tyler2010, p. 13] 
+
 
 Instrumental is important. Social is, too. And the two can interact.
 
@@ -83,6 +89,10 @@ Legitimate Authority Principle (S)
 
 
 #Implementing Specific Motivations
+
+How people use their subjective knowledge of the world to make decisions. 
+
+Kahneman and Tversky [p 15 Tyler2010]
 
 As ways to implement these motivations, use the Decoy Effect, Coherence, etc. 
 
