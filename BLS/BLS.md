@@ -41,7 +41,14 @@ Recent research on pro-social behavior moves toward unifying two previously comp
 
 Economic models have long assumed that individual motivation derives from self-interest, in the sense that motivation is caused by individuals' own desires or utility functions. Any given individual's utility function is independent is every other utility function. This assumption implies that desires are not affected by other individuals' desires; more strongly still, it implies that motivation stems from a desire for one's own satisfaction. Put differently, effects positive or negative on others are merely externalities; and any positive externalities ought to be internalized through compensation. [@Gauthier1986] Put more plainly, the rational choice model of motivation assumes that, if there is a conflict between what will satisfy me and what will satisfy others, I will prioritize my own satisfaction. 
 
-On the rational choice model, cooperation emerges from each individual pursuing his own welfare. Game theoretic accounts, especially those emerging from scholars specializing in evolution, argue that cooperation emerges from repeated interactions among self-interested individuals. One-shot interactions, as modeled by the Prisoner's Dilemma game, do not produce cooperation. Likewise, competition among groups can establish cooperation. Significant empirical evidence supports these hypotheses.  
+Therefore, on the rational choice model, "there is a tension between what is good for the individual and what is good for the population." [@Rand2013, p. 413] Cooperation produces results superior to non-cooperation, yet there is an incentive to defect. [@CITE fn 163 from Rand2014] Yet, over time, mechanisms arise among individuals that produce cooperation. Rational choice scholars identify five such mechanisms. 
+
+-Direct reciprocity
+-Indirect reciprocity
+-Spatial selection
+-Multilevel selection 
+-Kin selection 
+
 
 While the rational choice model predicts some types of cooperation, empirically we observe much more robust cooperation than the rational model predicts. In an effort to explain how this type of cooperation emerges, behavioral economics and social psychologists hypothesize that individuals are motivated not merely by material self-interest, but also by "social" motivations.  
 
