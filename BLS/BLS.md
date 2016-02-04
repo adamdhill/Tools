@@ -44,10 +44,15 @@ Economic models have long assumed that individual motivation derives from self-i
 Therefore, on the rational choice model, "there is a tension between what is good for the individual and what is good for the population." [@Rand2013, p. 413] Cooperation produces results superior to non-cooperation, yet there is an incentive to defect. [@CITE fn 163 from Rand2014] Yet, over time, mechanisms arise among individuals that produce cooperation. Rational choice scholars identify five such mechanisms. 
 
 -Direct reciprocity
+
 -Indirect reciprocity
+
 -Spatial selection
+
 -Multilevel selection 
+
 -Kin selection 
+
 
 
 While the rational choice model predicts some types of cooperation, empirically we observe much more robust cooperation than the rational model predicts. In an effort to explain how this type of cooperation emerges, behavioral economics and social psychologists hypothesize that individuals are motivated not merely by material self-interest, but also by "social" motivations.  
