@@ -3,7 +3,7 @@ Introduction
 
 Tools designed to allow beahvioral and experimental social scientists to improve neutrality in naming of governmental institutions when creating economic games or vignettes. 
 
-Update 02/15/2016 -- new Python version included, offering unweighted option.
+*Update 02/15/2016 -- new Python version included, offering unweighted option.*
 
 Experimental researchers sometimes ask participants to engage with *existing* governmental institutions. For example, an experiment might ask participants to assess the success of a regulation or policy. For example, Healy et al. (2015) find evidence of partisan bias in attributions of blame in the aftermath of government failure. 
 
