@@ -15,8 +15,4 @@ Mechanics
 
 First, we import the most common agency acronyms. At present, these are taken from government websites. Ideally, the list would be shorter, and would be generated from reliable measures of public salience. Second, we identify the frequency of the characters used in these acronyms. Finally, we use a letter generator to select letters with those probabilities.
 
-
-Improvements going forward
------------------------------------
-
-(1) Pull agency acronyms directly from source (e.g., Federal Register), which will make compatible with non-US institutions
+ 
